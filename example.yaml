@@ -3,7 +3,12 @@ Mysql:
   Port: 3306
   Username: root
   Password: ""
+  Database: student
 
 Gin:
   Host: 127.0.0.1
   Port: 8080
+
+Example:
+  ExampleNumber: 1
+  ExampleString: "test"
